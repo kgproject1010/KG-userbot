@@ -1,24 +1,17 @@
-# KG-USERBOT Telegram
+<h1 align="center"> KG-USERBOT</h1>
 
-KG-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+![KG-UBOT Logo](https://telegra.ph/file/de901eba4b8f4e3438ed2.jpg)
 
-Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
-Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
+    YANG KESINI KALIAN GABUT YA ,HHAHA ASTAGA TOLOL
+    
 
-## Disclaimer
 
-```
-Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
-Bot ini dimaksudkan untuk bersenang-senang sekaligus membantu Anda
-mengelola grup secara efisien dan mengotomatiskan beberapa hal yang membosankan.
-Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
-```
+<h3 align="center">KG-UBOT DIBUAT KARENA ISENG DOANG.</h3>
+<p align="center">&nbsp;</p>
 
-## Tutorial
+### Repo KG-UBOT
+Repo Yang Dibuat Oleh [KG](https://t.me/knsgnwn) 
 
-- [Panduan Cara Memasang Man-Userbot](https://mrismanaziz.medium.com/cara-memasang-userbot-telegram-repo-man-userbot-deploy-di-heroku-c56d1f8b5537)
-- [Cara Setting GDrive modules](https://telegra.ph/How-To-Setup-Google-Drive-04-03)
-- [Cara Setting Last.FM modules](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)
 
 ### Generate String Session
 [![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
@@ -26,9 +19,8 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/kgproject1010/KG-userbot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
-## Updates dan support
 
-Follow Channel [@KGSUPPORT](https://t.me/rakasupport) untuk info Update bot dan Gabung Group [@KGSupportgroup](https://t.me/KGSupportgroup) untuk untuk diskusi, pelaporan bug, dan bantuan tentang KG-Userbot.
+  <b>© Credits</b></summary>
 
 ## Credits
 Thanks For all :
@@ -48,5 +40,4 @@ Thanks For all :
 *   [X-REMIX](https://github.com/ximfine) -  X_ImFine
 *   [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot) -  Risman
 *   [KG-Userbot](https://github.com/kgproject1010/KG-userbot) -  KG
-## License
-Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
+ 
